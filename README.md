@@ -1,0 +1,4 @@
+# FloralChat
+Floral Chat application is Group chatting application. The are several discussions rooms are available in the application and user can select any one. The user can also create a new discussion room and start the discussion on a particular topic. The main distinct feature in this application is a anonymous login . Sometimes users are in threat of expressing their view on a particular domain. This platform gives a user feedom to speak. He can talk and discuss with others without any fear. Anonymous feature allows user to question other without any hesitation. In despite of all these, Interactive UI and simple to use interface is a ice on a cake. This application is powered by latest firebase Backend system which is highly sacalable and realtime. 
+
+Download: https://drive.google.com/open?id=17jWl8F6pbXgQBSRhbHN6uUM5rNuIibp9
