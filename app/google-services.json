@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "188668407811",
+    "firebase_url": "https://floralchat-4929f.firebaseio.com",
+    "project_id": "floralchat-4929f",
+    "storage_bucket": "floralchat-4929f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188668407811:android:006a6f300f3c7955",
+        "android_client_info": {
+          "package_name": "com.example.shivam.floralchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188668407811-6jb1ca8qq3hhnlda68l0iuimpdgbf96k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shivam.floralchat",
+            "certificate_hash": "e41d2dfee8f64d5982c90d51ebcbfbdae3673cf6"
+          }
+        },
+        {
+          "client_id": "188668407811-f81pc5gcb85m31mkc4igh9okdkk9a20n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOBAxtc0_oDft4mK5z8m8ufYJgI7bc22k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188668407811-f81pc5gcb85m31mkc4igh9okdkk9a20n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

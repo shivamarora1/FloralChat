@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/message_bg"
+    android:id="@+id/message_layout"
+    android:layout_marginTop="10dp"
+    android:layout_marginLeft="20dp"
+
+    android:layout_marginRight="20dp"
+    android:padding="15dp"
+    android:layout_marginBottom="5dp">
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:text="Name of User..."
+    android:id="@+id/message_uname"
+    android:textSize="14dp"
+    android:layout_marginBottom="5dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/message_content"
+        android:textSize="13dp"
+        android:layout_marginBottom="5dp"
+        android:textColor="#000"
+        android:text="The content of the Message..."/>
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/message_time"
+        android:text="11:00am"
+        android:textSize="10dp"
+        android:layout_gravity="right|end"/>
+</LinearLayout>
